@@ -1,0 +1,9 @@
+{
+  "output_file": null,
+  "full_docs": false,
+  "pub_only": true,
+  "reachable_only": false,
+  "distro_crate": true,
+  "signatures": false,
+  "borrow_data": false
+}

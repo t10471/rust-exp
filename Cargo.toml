@@ -5,3 +5,7 @@ authors = ["t10471 <t104711202@gmail.com>"]
 
 [dependencies]
 rand = "0.4"
+rustc-serialize = "0.3"
+rls-data = "= 0.15"
+rls-span = "0.4"
+

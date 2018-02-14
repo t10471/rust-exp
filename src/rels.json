@@ -1,0 +1,143 @@
+[
+  {
+    "span": {
+      "file_name": [
+        108,
+        105,
+        98,
+        97,
+        108,
+        108,
+        111,
+        99,
+        47,
+        97,
+        108,
+        108,
+        111,
+        99,
+        97,
+        116,
+        111,
+        114,
+        46,
+        114,
+        115
+      ],
+      "byte_start": 14946,
+      "byte_end": 14952,
+      "line_start": 66,
+      "line_end": 66,
+      "column_start": 6,
+      "column_end": 12
+    },
+    "kind": {
+      "variant": "Impl",
+      "fields": [
+        0
+      ]
+    },
+    "from": {
+      "krate": 0,
+      "index": 5300
+    },
+    "to": {
+      "krate": 4294967295,
+      "index": 4294967295
+    }
+  },
+  {
+    "span": {
+      "file_name": [
+        108,
+        105,
+        98,
+        97,
+        108,
+        108,
+        111,
+        99,
+        47,
+        97,
+        108,
+        108,
+        111,
+        99,
+        97,
+        116,
+        111,
+        114,
+        46,
+        114,
+        115
+      ],
+      "byte_start": 25909,
+      "byte_end": 25917,
+      "line_start": 328,
+      "line_end": 328,
+      "column_start": 6,
+      "column_end": 14
+    },
+    "kind": {
+      "variant": "Impl",
+      "fields": [
+        1
+      ]
+    },
+    "from": {
+      "krate": 0,
+      "index": 5320
+    },
+    "to": {
+      "krate": 4294967295,
+      "index": 4294967295
+    }
+  },
+  {
+    "span": {
+      "file_name": [
+        108,
+        105,
+        98,
+        97,
+        108,
+        108,
+        111,
+        99,
+        47,
+        97,
+        108,
+        108,
+        111,
+        99,
+        97,
+        116,
+        111,
+        114,
+        46,
+        114,
+        115
+      ],
+      "byte_start": 26657,
+      "byte_end": 26665,
+      "line_start": 351,
+      "line_end": 351,
+      "column_start": 23,
+      "column_end": 31
+    },
+    "kind": {
+      "variant": "Impl",
+      "fields": [
+        2
+      ]
+    },
+    "from": {
+      "krate": 0,
+      "index": 5320
+    },
+    "to": {
+      "krate": 1,
+      "index": 7276
+    }
+  }
+]
